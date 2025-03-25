@@ -1,5 +1,4 @@
 # Bowling Game 
-Please implement a program calculating the score of a single player in Bowling.  
 
 ### Game Rules
 - A bowling game consists of 10 frames.  
